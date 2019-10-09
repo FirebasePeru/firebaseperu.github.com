@@ -114,7 +114,7 @@ h6 {
   display: block;
   width: 60px;
   height: 5px;
-  background: #f82249;
+  background: #039BE5;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -1045,7 +1045,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #gallery .owl-dot.active {
-  background-color: #f82249;
+  background-color: #FFCA28;
 }
 
 #gallery .gallery-carousel .owl-stage-outer {
@@ -1053,7 +1053,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #gallery .gallery-carousel .center {
-  border: 6px solid #f82249;
+  border: 6px solid #FFCA28;
   margin: -10px;
   box-sizing: content-box;
   padding: 4px;
@@ -1457,7 +1457,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
-  border-bottom: 2px solid #f82249;
+  border-bottom: 2px solid #039BE5;
 }
 
 #footer .footer-top .footer-links {
