@@ -918,12 +918,23 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: url("../img/photo-group-meetup/meetup-5-portada.jpg") top center no-repeat;
 }
 
+#meetup-4-background{ 
+  background: url("../img/photo-group-meetup/meetup-4.jpg") top center no-repeat;
+}
+
+#meetup-3-background{ 
+  background: url("../img/photo-group-meetup/meetup-3.jpg") top center no-repeat;
+}
+
 #meetup-2-background{ 
   background: url("../img/photo-group-meetup/meetup-2-portada.jpg") top center no-repeat;
 }
 
 #meetup-1-background{ 
   background: url("../img/photo-group-meetup/meetup-1-portada.jpg") top center no-repeat;
+}
+#venue .venue-info a {
+  color: #fff;
 }
 
 #venue .venue-info:before {
